@@ -1,0 +1,1 @@
+cmd_/home/akshada/Desktop/ELDD_Assignment/Assignment_5/ktimer.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/akshada/Desktop/ELDD_Assignment/Assignment_5/ktimer.ko /home/akshada/Desktop/ELDD_Assignment/Assignment_5/ktimer.o /home/akshada/Desktop/ELDD_Assignment/Assignment_5/ktimer.mod.o;  true
